@@ -1,0 +1,39 @@
+/* .navbar-toggler {
+    background-color: rgb(30, 190, 253);
+}
+
+.navbar-light .navbar-nav .nav-link {
+      color: #fff;
+  
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+      color: rgb(30, 190, 253);
+} 
+
+
+
+  
+.link{
+      color: #fff;
+} */
+
+.ME {
+    color: rgb(30, 190, 253);
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.icon{
+    
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.btn{ 
+    color:red;
+}

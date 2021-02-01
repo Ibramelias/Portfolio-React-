@@ -1,0 +1,22 @@
+
+
+   
+
+
+.day  {
+    margin: 40px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.projects {
+    font-size: 50px;
+    margin: 30px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 15px;
+}
+
+.body {
+    padding: 10px;
+}

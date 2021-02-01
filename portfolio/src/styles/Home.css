@@ -1,0 +1,103 @@
+.am{
+    font-family: 'Lobster', cursive;
+
+}
+
+#skills{
+    align-items: center;
+    text-align: center;
+    
+}
+li{
+    list-style: none;
+}
+#front{
+    background-color: #FDFD96;
+    margin:40px;
+    height: 80%;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.fronttitle{
+    border-bottom:  1px solid black;
+}
+
+.backtitle{
+    border-bottom:  1px solid black;
+}
+
+#back{
+    background-color: #a2caeb;
+    margin: 20px;
+    height: 80%;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+}
+
+.myphoto{
+    height: 95%;
+    border-radius: 10px;
+}
+
+
+
+.aboutme{
+    letter-spacing: 1px;
+    line-height: 200%;
+    text-align: center;
+    color:#000;
+    background-color: rgb(218, 240, 222);
+    border-radius: 10px;
+    font-size: 15px;
+    height: 95%;
+    padding: 25px;
+    word-spacing: 3px;
+
+
+}
+
+.whatIwant{
+    letter-spacing: 1px;
+    text-align:center;
+    letter-spacing: .5px;
+    background-color:  #f5dcd6;
+    border-radius: 10px;
+    height: 95%;
+    color: #000;
+    line-height: 200%;
+    padding: 25px;
+    word-spacing: 3px;
+   
+}
+
+header{
+    margin-bottom: 25px;
+}
+
+.name{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.back{
+    background-color: #a2caeb;
+    margin: 20px;
+    height: 80%;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+}
+
+.front{
+    background-color: #FDFD96;
+    margin:40px;
+    height: 80%;
+    border-radius: 10px;
+    padding-top: 20px;
+}
